@@ -1,4 +1,4 @@
-<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/847b6847-79dd-49d5-ae84-a392f94ef20d" /># Symulacja Trebusza 🏰
+# Symulacja Trebusza 🏰
 
 Interaktywna symulacja fizyczna trebusza napisana w języku Python przy użyciu biblioteki `pygame`, stworzona jako projekt edukacyjny z fizyki. Program wizualizuje mechanikę maszyny oblężniczej i pozwala na badanie wpływu różnych parametrów konstrukcyjnych na ostateczny zasięg rzutu kuli.
 

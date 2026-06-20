@@ -32,4 +32,3 @@ Do uruchomienia projektu wymagany jest **Python 3.x** oraz biblioteki **pygame**
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/Gucianoski/Symulator-Trebusza-Igor-Majchrzak.git
-   cd trebusz-symulacja
